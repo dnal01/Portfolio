@@ -36,3 +36,4 @@ function myFunction() {
       `&#x${char.codePointAt(0).toString(16).toUpperCase()};`
     );
   }
+
