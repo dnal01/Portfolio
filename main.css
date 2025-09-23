@@ -408,7 +408,7 @@ h4 {
     width: 100px;
     background-color: #f1f1f1;
     border-radius: 15px;
-    margin: 0 auto;
+
     padding: 5px;
     font-size: 1.2rem;
 
@@ -532,4 +532,10 @@ aside > nav {
 .projects-details {
     text-align: left;
     grid-area: box-2;
+}
+
+.resumes {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
 }
